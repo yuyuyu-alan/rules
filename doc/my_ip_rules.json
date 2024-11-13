@@ -1,0 +1,13 @@
+{
+  "rules": [
+    {
+      "domain_keyword": [
+        "hysteria"
+      ],
+      "domain_suffix": [
+        "hysteria.network"
+      ]
+    }
+  ],
+  "version": 2
+}
